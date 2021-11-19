@@ -207,4 +207,4 @@ async def on_ready():
 
 client.add_cog(Music(client))
 
-client.run('ODkwMzMxMzg4NTA5ODI3MTEz.YUuPuA.HHmZ3tfJaLkPveaLnwl41inPO6M')
+client.run('ODkwMzMxMzg4NTA5ODI3MTEz.YUuPuA.A0v8hAW6zg22_dzKLSQ0iv3FU7A')
